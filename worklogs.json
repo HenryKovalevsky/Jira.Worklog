@@ -1,0 +1,30 @@
+[
+  {
+    "Summary": "Backend API dvelopment",
+    "IssueKey": "PRJ-101",
+    "Started": "2026-08-03T12:00:00",
+    "TimeSpent": "03:00:00",
+    "Comment": "Implement API endpoints"
+  },
+  {
+    "Summary": "Backend API development",
+    "IssueKey": "PRJ-101",
+    "Started": "2026-08-04T18:30:00",
+    "TimeSpent": "02:00:00",
+    "Comment": "Add database integration"
+  },
+  {
+    "Summary": "User authentication setup",
+    "IssueKey": "PRJ-120",
+    "Started": "2026-08-05T19:00:00",
+    "TimeSpent": "04:00:00",
+    "Comment": "Configure JWT tokens"
+  },
+  {
+    "Summary": "Backend API development",
+    "IssueKey": "PRJ-101",
+    "Started": "2026-08-07T09:30:00",
+    "TimeSpent": "06:00:00",
+    "Comment": "Refactor response handling"
+  }
+]
