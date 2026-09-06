@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "url": "https://raw.githubusercontent.com/HenryKovalevsky/Jira.Worklog/refs/heads/master/scoop/publish.zip",
+  "extract_dir": "publish",
+  "bin": "jira-worklog.exe",
+  "hash": "3699e109a10c9e9e5f25e461c7adca0299bd129e766c4160ce3af4f560e813a0"
+}
